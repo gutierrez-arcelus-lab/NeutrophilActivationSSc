@@ -12,9 +12,9 @@ The workflow aggregates multiple public RNA-seq and microarray datasets related 
 
 ---
 
-Author
+## Author
 
-Gonzalo Villanueva-Martín, PhD \n
-Gutierrez-Arcelus Lab \n
-Boston Children’s Hospital / Harvard Medical School \n
+Gonzalo Villanueva-Martín, PhD 
+Gutierrez-Arcelus Lab 
+Boston Children’s Hospital / Harvard Medical School 
 2025
