@@ -15,7 +15,7 @@ This repository contains a complete and standardized analysis pipeline integrati
 - Cross-dataset comparison of **neutrophil** and **platelet-related pathways**
 - Per-dataset enrichment plots for publication
 
-The workflow aggregates multiple public RNA-seq and microarray datasets related to **Systemic Sclerosis (SSc)** across distinct tissues (skin, blood, lung), enabling direct comparison of shared immune pathways—especially neutrophil degranulation and platelet activation.
+The workflow aggregates multiple public RNA-seq and microarray datasets related to **Systemic Sclerosis (SSc)** across distinct tissues (skin and blood), enabling direct comparison of shared immune pathways—especially neutrophil degranulation and platelet activation.
 
 ---
 
